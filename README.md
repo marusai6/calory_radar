@@ -1,6 +1,6 @@
 Это тестовый пример телеграм-бота, который помогает рассчитать калорийность блюда, а также содержание белков, жиров и углеводов. Бот предлагает пользователю ввести название блюда, затем его массу, после этого производит расчёт и выводит результат. В боте настроено соединение с базой данных PostgreSQL, в которой хранятся данные о разных блюдах и их составе КБЖУ из расчёта на 100 грамм. Расчёт приблизительный, но такой бот может быть полезен тем, кто хочет похудеть и заботится о балансе в питании.
-![скрин_1](https://github.com/user-attachments/assets/a62b2856-7d24-40ef-9b3f-304f0ae7c18c)
-![скрин_2](https://github.com/user-attachments/assets/79b6fd7a-ac62-4be7-987e-6cbf23ba9f05)
-![скрин_3](https://github.com/user-attachments/assets/2b9f1fc8-dcbb-48ba-8939-0dba06c4090d)
-![скрин_4](https://github.com/user-attachments/assets/786b69c5-bcf7-4c34-9310-343eb139942e)  
+![скрин_1](https://github.com/user-attachments/assets/ecf70052-a31a-4cca-874b-e0f1adbb3dd1)
+![скрин_2](https://github.com/user-attachments/assets/a4f3a939-e768-48c4-bd2e-7f1e7f4c3217)
+![скрин_3](https://github.com/user-attachments/assets/9dfd160f-5964-45f4-a9a4-0dbbf0e4a403)
+![скрин_4](https://github.com/user-attachments/assets/3bb7014d-d6b0-4f23-b5ee-deece2c4f48a)  
 Данный бот можно доработать под любые нужды пользователей, расширить функционал.
